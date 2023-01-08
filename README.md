@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aXomwfNzzlAWfD95CO4gmTT-QK4wFtkP/view?usp=sharing](https://drive.google.com/file/d/1aXomwfNzzlAWfD95CO4gmTT-QK4wFtkP/view?usp=sharing)
 
-- ⚡ Fun fact **I am National Gold medallist in Badminton, Really love learning new Technologies and A bit cautious fitness freak.**
+- ⚡ Fun fact **I am National Gold medalist in Badminton, Really love learning new Technologies and A bit cautious fitness freak.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
