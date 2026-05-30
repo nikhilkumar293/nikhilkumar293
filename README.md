@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Competitive Programming and Web Development**
 
-- 🔭 I'm currently working on [Harnik_AI_BOT](https://github.com/nikhilkumar293/Harnik_AI_BOT)
+- 🔭 I'm currently working on Jarvis(soon you will know!)
 
 - 👨‍💻 All of my projects are available at [https://csi-vit-ap.github.io/19BCE7130-Nikhil-Kumar/](https://csi-vit-ap.github.io/19BCE7130-Nikhil-Kumar/)
 
